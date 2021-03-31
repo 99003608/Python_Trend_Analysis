@@ -1,1 +1,1 @@
-# Python_Trend_Analysis
+# Python Mini-Project on Trend Analysis Using Data Visualization
